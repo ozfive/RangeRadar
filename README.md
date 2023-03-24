@@ -23,7 +23,7 @@ git clone https://github.com/ozfive/RangeRadar
 2. Navigate to the repository directory and build the binary:
 
 ```shell
-cd CIDRizer
+cd RangeRagar
 go build
 ```
 
